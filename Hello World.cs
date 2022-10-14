@@ -8,5 +8,15 @@ namespace HelloWorldApp
         Console.WriteLine("Hello World");
         Console.Read();
         }
+
+
+
+
+
+        public int Cost(int cost, double taxRate) {
+            return cost + cost * taxRate;
+        }
+
+
     }
 }
