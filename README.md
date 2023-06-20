@@ -2,7 +2,8 @@
 - 👀 I’m interested in video games
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on games and Linux servers
-- 📫 How to reach me jrdholston@gmail.com
+- 📫 Email: jrdholston@gmail.com
+-    Discord: explosiver
 
 <!---
 explosiver1/explosiver1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
